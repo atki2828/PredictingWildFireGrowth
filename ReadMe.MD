@@ -31,3 +31,5 @@ for forest fire size"
 *RunningModels.py contains code for tuning model params with grid search and model comparison
 
 *Predicting WildFire Growth Analysis contains PDF of Jupyter notebook running code with written analysis of output
+
+*Predicting_Wild_Fire_Growth.ipynb
