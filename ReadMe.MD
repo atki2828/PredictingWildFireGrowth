@@ -1,6 +1,6 @@
   
 ## Predicting Wildfire Growth Project Overview
-This project is an exercise in Binary Classification as it aims to compare popular classifiers on the Alberta fire data set. In this project I first perform some EDA to determine which variables may show predictive power in determining if a wildfire will grow from its initial report or not. Then I develop a K-folds Classification tool that is used to process and assess each binary classifiers performance. Finally I run KNN, SVM, RandomForest and Logistic Regression through the aforementioned tool and evaluate their performances.
+This project is an exercise in Binary Classification as it aims to compare popular classifiers on the Alberta fire data set. In this project I first perform some EDA to determine which variables may show predictive power in determining if a wildfire will grow from its initial report or not. Then I develop a K-folds Classification tool that is used to process and assess each binary classifiers performance. I then run KNN, SVM, RandomForest and Logistic Regression through the aforementioned tool and evaluate their performances in terms of accuracy and recall.
 
 ## Predicting Wildfire Growth Files
 * Readme
