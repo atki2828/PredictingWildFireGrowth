@@ -9,7 +9,7 @@ for forest fire size"
 * WildFireEDA.py contains code for EDA
 * KFold_CV_Class.py contains code for building KFold Class to be used as tool for model comparison
 * RunningModels.py contains code for tuning model params with grid search and model comparison
-* Predicting Wild Fire Growth Analysis contains PDF of Jupyter notebook running code with written analysis of output
+* Predicting Wild Fire Growth Analysis contains PDF of Jupyter notebook running code with written analysis
 * Predicting_Wild_Fire_Growth.ipynb
 
 ## Technolody Used
